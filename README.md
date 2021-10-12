@@ -1,6 +1,6 @@
-# Reviews JavaScript Project
+# Sidebar JavaScript Project
 
-A Udemy project showcasing review testimonials in JavaScript. This is a more JavaScript type of project within the JavaScript section of the course. 
+A Udemy project showcasing sidebar navigation in JavaScript. This is a more JavaScript type of project within the JavaScript section of the course. 
 
 ## Contributions
 
